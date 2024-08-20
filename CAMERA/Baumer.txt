@@ -1,0 +1,12 @@
+link for download the baumer camera viewer software
+
+https://www.baumer.com/in/en/products/baumer-camera-explorer-v3-4-2-linux-x86-64-deb-/a/Camera-explorer_linux_x86-64_deb
+
+download the given wheel file
+
+then run the command in terminal 
+python3 -m pip install baumer_neoapi-1.4.1-cp34.cp35.cp36.cp37.cp38.cp39.cp310.cp311.cp312-none-linux_x86_64.whl
+
+then open bexplorer
+the add ip configuration that shown on bottom left side (ID configuration)
+# 192.168.1.72
